@@ -1,0 +1,32 @@
+
+.headimg{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  text-align: center;
+  background-image:url(../img/lakesidefire.jpg);
+  background-position: center;
+  background-size: cover;
+  margin: 0;
+  height: 100vh;
+}
+
+
+.logimg{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  text-align: center;
+  background-image:url(../img/campfire.jpg);
+  background-position: center;
+  background-size: cover;
+  margin: 0;
+  height: 100vh;
+  color: white;
+}
+
+.containerJumbotron{
+    overflow-y: scroll;
+}
